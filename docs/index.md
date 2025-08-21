@@ -8,18 +8,13 @@ hero:
   tagline: 汇万家之乐，成一己之悦
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: Logo
   actions:
     - text: 导航
       link: /nav/
     - text: Github
       link: http://github.com/Traveler1145141/leziwiki
 features:
-  - icon: 📖
-    title: 测试
-    details: 测试
-    link: /article/测试
-    linkText: 测试，无用
   - icon: 📖
     title: 大佬6的技术毋容置疑
     details: 大佬6的技术毋容置疑
